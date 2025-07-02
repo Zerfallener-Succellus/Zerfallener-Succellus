@@ -1,28 +1,24 @@
-## Welcome! , my name is Pedro Lucas 👽
-<div align="center">
-  <a href="https://github.com/Zerfallener-Succellus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zerfallener-Succellus&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerfallener-Succellus&layout=compact&langs_count=7&theme=merko"/>
-</div>
-<div style="display: inline_block "><br>
-  <img align="center" alt="Peu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Peu-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Peu-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Peu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Peu-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
- 
-  
-  ##
+<h1 align="left">Hi there, I'm Lucas 👋</h1>
 
-  
+<a href="#dereknguyen269-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zerfallener-Succellus&show_icons=true"  align="right" />
+</a>
 
-  
-  ##
-  ##
-  
+- 🎓 Studying **IT** at IFPE.
+- 👨‍💻 Developer focusing on **Fullstack**.
+- 🚀 Looking for new challenges and continuously learning.
+- 🎮 In my spare time, a **Dark Souls** enthusiast.
+- ☕ Powered by coffee!
 
-</div>
-  
-  ##
+[<img src="https://img.shields.io/badge/Portfolio-yellow?style=flat-square&logo=oi" alt="Portfolio logo" title="Portfolio" height="25" />](https://zerfallener-succellus.github.io/Portifolio/) [<img src="https://img.shields.io/badge/Linked-in-blue?style=flat-square&logo=oi" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/pedro-lucas-ferreira-godoy-2298a1218/)
 
+### 🛠️ Tech Stack
 
+```javascript
+const skills = {
+  backend: ["Java", "JavaScript", "Go", "Rust", "C"],
+  frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Svelte"],
+  databases: ["PostgreSQL", "MySQL", "Redis"],
+  cloud: ["AWS", "Google Cloud", "Azure"],
+  architecture: ["Microservices", "Event-Driven", "Design Patterns"]
+}
